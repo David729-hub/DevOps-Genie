@@ -7,7 +7,7 @@ import base64
 import json
 import google.generativeai as genai
 #Coloque Suas Credencias do Google Aqui
-GOOGLE_API_KEY= 'SuaChavedeAcessoDoGoogle_AQUI'
+GOOGLE_API_KEY= 'SuaChavedeAcessoDoGoogleIA_AQUI'
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-pro')
 janela = tk.Tk()
