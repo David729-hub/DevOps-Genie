@@ -39,5 +39,6 @@ Criar WorkItem no projeto chamado [NOME DO PROJETO] do tipo [TIPO DO WORKITEM] c
 * Data de Término (opcional): Utilize o formato AAAA-MM-DD.
 * Prioridade: Utilize um número de 1 a 4.
 * Clique em "Enviar": Pressione o botão "Enviar" para que a IA processe sua solicitação.
-
+## Imagem da tela do sistema, feita com tkinter: 
+![[TELA DO SISTEMA]](ImagemTelaProjeto.png)
 ### OBS: Devido ao curto tempo para realizar o projeto não criei uma funcionalidade para perguntar se quer mesmo continuar com a criação após enviar o texto, por isso certifiquese de colocar todos as informações necessárias antes de enviar.(Solicito que na primeira execução, realize um debug(depuração) no código linha a linha para entender as funcionalidades exitentes)
